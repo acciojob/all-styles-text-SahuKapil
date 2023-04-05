@@ -1,2 +1,15 @@
+.container {
+  width: 200px;
+  background-color: purple;
+  display: flex;
+  flex-direction: row;
+	border-left: 5px solid green;
+	padding: 10px;
+	
+}
 
-/* Your CSS Code here. */
+ h1 , a {
+  font-size: 20px;
+	color: white;
+}
+
