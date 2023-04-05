@@ -1,11 +1,11 @@
-.container {
+.main {
   width: 200px;
   background-color: purple;
   padding: 10px;
   border-left: 5px solid green;
 }
 
-h1 {
+#heading {
   font-size: 20px;
   color: white;
 }
